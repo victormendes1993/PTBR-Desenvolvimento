@@ -1,4 +1,4 @@
-# Flutter Development
+# Flutter
 
 ## Projects
 
@@ -8,9 +8,7 @@
   
 - [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Aplicativo de chat com funcionalidades de autenticação via Firebase, incluindo login com Google e Facebook. Implementação de verificação de email e redefinição de senha para garantir a segurança e a integridade das contas dos usuários. 
 
-- [Mebmi](https://github.com/victormendes1993/Mebmi) | BMI Calculator App - Introduction to using custom widgets.
-
-# JavaScript Development
+# JavaScript
 
 ## Projects
 
@@ -20,7 +18,7 @@
 
 - [Todo-App](https://github.com/victormendes1993/Todo-App) | O To-Do Web App é uma solução simples e funcional para organizar suas tarefas diretamente no navegador. Desenvolvido com HTML, CSS e JavaScript, ele permite criar, editar, concluir e excluir tarefas de forma intuitiva. As informações são armazenadas no navegador (localStorage), garantindo que suas tarefas sejam mantidas mesmo após fechar a página. Com uma interface responsiva e minimalista, o app oferece uma experiência prática para planejar e acompanhar suas atividades diárias.
 
-# Node.JS Development
+# Node.JS
 
 ## Projects
 
