@@ -25,3 +25,9 @@
 - [Node-Notes-App](https://github.com/victormendes1993/Node-Notes-App) | Notes-App é uma aplicação simples e funcional desenvolvida em Node.js, que permite gerenciar anotações diretamente pelo terminal. Utilizando o pacote Yargs para interpretar comandos e o módulo File System para persistência de dados, o aplicativo oferece funcionalidades para adicionar, listar, ler e remover anotações de forma prática e eficiente.
 
 - [Node-Weather-App](https://github.com/victormendes1993/Served-Weather) | Node-Weather-App é uma plataforma responsiva de previsão do tempo desenvolvida com Node.js. O sistema integra um backend robusto para gerenciar requisições com Express e um frontend intuitivo criado com Handlebars. Usando Axios para consumir a API do Weatherstack, permite que os usuários pesquisem informações climáticas inserindo o nome de uma cidade e recebam dados precisos e atualizados.
+
+# React
+
+## Projects
+
+- [Node-Weather-App](https://github.com/victormendes1993/Indecisionapp) | IndecisionApp é uma aplicação dinâmica desenvolvida com React para ajudar usuários indecisos a escolherem tarefas. Utilizando Babel e Webpack para uma experiência otimizada, e estilização com SCSS, o app permite que os usuários adicionem uma lista de tarefas e, com um clique, selecionem aleatoriamente qual executar. Uma solução prática para acabar com a indecisão e aumentar a produtividade.
