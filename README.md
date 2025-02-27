@@ -22,4 +22,4 @@
 
 # React
 
-- [Node-Weather-App](https://github.com/victormendes1993/Indecisionapp) | IndecisionApp é uma aplicação dinâmica desenvolvida com React para ajudar usuários indecisos a escolherem tarefas. Utilizando Babel e Webpack para uma experiência otimizada, e estilização com SCSS, o app permite que os usuários adicionem uma lista de tarefas e, com um clique, selecionem aleatoriamente qual executar. Uma solução prática para acabar com a indecisão e aumentar a produtividade.
+- [Indecision App](https://github.com/victormendes1993/Indecisionapp) | IndecisionApp é uma aplicação dinâmica desenvolvida com React para ajudar usuários indecisos a escolherem tarefas. Utilizando Babel e Webpack para uma experiência otimizada, e estilização com SCSS, o app permite que os usuários adicionem uma lista de tarefas e, com um clique, selecionem aleatoriamente qual executar. Uma solução prática para acabar com a indecisão e aumentar a produtividade.
