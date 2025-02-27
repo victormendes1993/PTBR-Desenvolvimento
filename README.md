@@ -22,6 +22,6 @@
 
 # React
 
-- [Indecision App](https://github.com/victormendes1993/Indecisionapp) | IndecisionApp é uma aplicação dinâmica desenvolvida com React para ajudar usuários indecisos a escolherem tarefas. Utilizando Babel e Webpack para uma experiência otimizada, e estilização com SCSS, o app permite que os usuários adicionem uma lista de tarefas e, com um clique, selecionem aleatoriamente qual executar. Uma solução prática para acabar com a indecisão e aumentar a produtividade. o projeto inclui testes automatizados com Jest.
+- [Indecision App](https://github.com/victormendes1993/Indecisionapp) | IndecisionApp é uma aplicação dinâmica desenvolvida com React para ajudar usuários indecisos a escolherem tarefas. Utilizando Babel e Webpack para uma experiência otimizada, e estilização com SCSS, o app permite que os usuários adicionem uma lista de tarefas e, com um clique, selecionem aleatoriamente qual executar.
 
 - [Expensify](https://github.com/victormendes1993/Expensify) | Expensify App é uma plataforma de gerenciamento de despesas. Desenvolvido com React, Redux, Firebase e SCSS, o app permite que os usuários adicionem, editem e excluam despesas, com autenticação de usuário via Firebase. Utilizando React-Router para navegação e Webpack e Babel para otimização do build, o app oferece uma solução completa e eficiente para controlar as finanças pessoais. Além disso, o projeto inclui testes automatizados com Jest e Enzyme, garantindo a qualidade e confiabilidade do código.
